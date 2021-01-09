@@ -4,10 +4,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "VIC-20 keyboard"
+Date "2021-01-09"
+Rev "v2.0"
+Comp "Hans Liss"
 Comment1 ""
 Comment2 ""
 Comment3 ""
@@ -19,7 +19,7 @@ U 1 1 5CF39834
 P 1850 2250
 F 0 "SW3" H 1900 2350 50  0000 L CNN
 F 1 "Key_5" H 1850 2190 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 1850 2450 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 1850 2450 50  0001 C CNN
 F 3 "" H 1850 2450 50  0001 C CNN
 	1    1850 2250
 	1    0    0    -1  
@@ -30,7 +30,7 @@ U 1 1 5CF39857
 P 1850 1750
 F 0 "SW2" H 1900 1850 50  0000 L CNN
 F 1 "Key_3" H 1850 1690 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 1850 1950 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 1850 1950 50  0001 C CNN
 F 3 "" H 1850 1950 50  0001 C CNN
 	1    1850 1750
 	1    0    0    -1  
@@ -41,7 +41,7 @@ U 1 1 5CF39ABE
 P 1850 2800
 F 0 "SW4" H 1900 2900 50  0000 L CNN
 F 1 "Key_7" H 1850 2740 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 1850 3000 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 1850 3000 50  0001 C CNN
 F 3 "" H 1850 3000 50  0001 C CNN
 	1    1850 2800
 	1    0    0    -1  
@@ -52,7 +52,7 @@ U 1 1 5CF39AC4
 P 1850 3900
 F 0 "SW6" H 1900 4000 50  0000 L CNN
 F 1 "Key_Plus" H 1850 3840 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 1850 4100 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 1850 4100 50  0001 C CNN
 F 3 "" H 1850 4100 50  0001 C CNN
 	1    1850 3900
 	1    0    0    -1  
@@ -63,7 +63,7 @@ U 1 1 5CF39ACA
 P 1850 3350
 F 0 "SW5" H 1900 3450 50  0000 L CNN
 F 1 "Key_9" H 1850 3290 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 1850 3550 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 1850 3550 50  0001 C CNN
 F 3 "" H 1850 3550 50  0001 C CNN
 	1    1850 3350
 	1    0    0    -1  
@@ -74,7 +74,7 @@ U 1 1 5CF39DBE
 P 1850 4400
 F 0 "SW7" H 1900 4500 50  0000 L CNN
 F 1 "Key_Pound" H 1850 4340 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 1850 4600 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 1850 4600 50  0001 C CNN
 F 3 "" H 1850 4600 50  0001 C CNN
 	1    1850 4400
 	1    0    0    -1  
@@ -85,7 +85,7 @@ U 1 1 5CF39DCA
 P 1850 4900
 F 0 "SW8" H 1900 5000 50  0000 L CNN
 F 1 "Key_DEL" H 1850 4840 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 1850 5100 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 1850 5100 50  0001 C CNN
 F 3 "" H 1850 5100 50  0001 C CNN
 	1    1850 4900
 	1    0    0    -1  
@@ -96,7 +96,7 @@ U 1 1 5CF39F22
 P 2800 1250
 F 0 "SW9" H 2850 1350 50  0000 L CNN
 F 1 "Key_ARROWLEFT" H 2800 1190 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 2800 1450 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2800 1450 50  0001 C CNN
 F 3 "" H 2800 1450 50  0001 C CNN
 	1    2800 1250
 	1    0    0    -1  
@@ -107,7 +107,7 @@ U 1 1 5CF39F28
 P 2800 2250
 F 0 "SW11" H 2850 2350 50  0000 L CNN
 F 1 "Key_R" H 2800 2190 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 2800 2450 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2800 2450 50  0001 C CNN
 F 3 "" H 2800 2450 50  0001 C CNN
 	1    2800 2250
 	1    0    0    -1  
@@ -118,7 +118,7 @@ U 1 1 5CF39F2E
 P 2800 1750
 F 0 "SW10" H 2850 1850 50  0000 L CNN
 F 1 "Key_W" H 2800 1690 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 2800 1950 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2800 1950 50  0001 C CNN
 F 3 "" H 2800 1950 50  0001 C CNN
 	1    2800 1750
 	1    0    0    -1  
@@ -129,7 +129,7 @@ U 1 1 5CF39F34
 P 2800 2800
 F 0 "SW12" H 2850 2900 50  0000 L CNN
 F 1 "Key_Y" H 2800 2740 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 2800 3000 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2800 3000 50  0001 C CNN
 F 3 "" H 2800 3000 50  0001 C CNN
 	1    2800 2800
 	1    0    0    -1  
@@ -140,7 +140,7 @@ U 1 1 5CF39F3A
 P 2800 3900
 F 0 "SW14" H 2850 4000 50  0000 L CNN
 F 1 "Key_P" H 2800 3840 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 2800 4100 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2800 4100 50  0001 C CNN
 F 3 "" H 2800 4100 50  0001 C CNN
 	1    2800 3900
 	1    0    0    -1  
@@ -151,7 +151,7 @@ U 1 1 5CF39F40
 P 2800 3350
 F 0 "SW13" H 2850 3450 50  0000 L CNN
 F 1 "Key_I" H 2800 3290 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 2800 3550 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2800 3550 50  0001 C CNN
 F 3 "" H 2800 3550 50  0001 C CNN
 	1    2800 3350
 	1    0    0    -1  
@@ -162,7 +162,7 @@ U 1 1 5CF39F46
 P 2800 4400
 F 0 "SW15" H 2850 4500 50  0000 L CNN
 F 1 "Key_asterisk" H 2800 4340 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 2800 4600 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2800 4600 50  0001 C CNN
 F 3 "" H 2800 4600 50  0001 C CNN
 	1    2800 4400
 	1    0    0    -1  
@@ -173,7 +173,7 @@ U 1 1 5CF39F4C
 P 2800 4900
 F 0 "SW16" H 2850 5000 50  0000 L CNN
 F 1 "Key_RETURN" H 2800 4840 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_2.00u_PCB" H 2800 5100 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2800 5100 50  0001 C CNN
 F 3 "" H 2800 5100 50  0001 C CNN
 	1    2800 4900
 	1    0    0    -1  
@@ -184,7 +184,7 @@ U 1 1 5CF3A242
 P 3750 1250
 F 0 "SW17" H 3800 1350 50  0000 L CNN
 F 1 "Key_CTRL" H 3750 1190 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.50u_PCB" H 3750 1450 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3750 1450 50  0001 C CNN
 F 3 "" H 3750 1450 50  0001 C CNN
 	1    3750 1250
 	1    0    0    -1  
@@ -195,7 +195,7 @@ U 1 1 5CF3A248
 P 3750 2250
 F 0 "SW19" H 3800 2350 50  0000 L CNN
 F 1 "Key_D" H 3750 2190 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 3750 2450 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3750 2450 50  0001 C CNN
 F 3 "" H 3750 2450 50  0001 C CNN
 	1    3750 2250
 	1    0    0    -1  
@@ -206,7 +206,7 @@ U 1 1 5CF3A24E
 P 3750 1750
 F 0 "SW18" H 3800 1850 50  0000 L CNN
 F 1 "Key_A" H 3750 1690 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 3750 1950 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3750 1950 50  0001 C CNN
 F 3 "" H 3750 1950 50  0001 C CNN
 	1    3750 1750
 	1    0    0    -1  
@@ -217,7 +217,7 @@ U 1 1 5CF3A254
 P 3750 2800
 F 0 "SW20" H 3800 2900 50  0000 L CNN
 F 1 "Key_G" H 3750 2740 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 3750 3000 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3750 3000 50  0001 C CNN
 F 3 "" H 3750 3000 50  0001 C CNN
 	1    3750 2800
 	1    0    0    -1  
@@ -228,7 +228,7 @@ U 1 1 5CF3A25A
 P 3750 3900
 F 0 "SW22" H 3800 4000 50  0000 L CNN
 F 1 "Key_L" H 3750 3840 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 3750 4100 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3750 4100 50  0001 C CNN
 F 3 "" H 3750 4100 50  0001 C CNN
 	1    3750 3900
 	1    0    0    -1  
@@ -239,7 +239,7 @@ U 1 1 5CF3A260
 P 3750 3350
 F 0 "SW21" H 3800 3450 50  0000 L CNN
 F 1 "Key_J" H 3750 3290 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 3750 3550 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3750 3550 50  0001 C CNN
 F 3 "" H 3750 3550 50  0001 C CNN
 	1    3750 3350
 	1    0    0    -1  
@@ -250,7 +250,7 @@ U 1 1 5CF3A266
 P 3750 4400
 F 0 "SW23" H 3800 4500 50  0000 L CNN
 F 1 "Key_semicolon" H 3750 4340 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 3750 4600 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3750 4600 50  0001 C CNN
 F 3 "" H 3750 4600 50  0001 C CNN
 	1    3750 4400
 	1    0    0    -1  
@@ -261,7 +261,7 @@ U 1 1 5CF3A26C
 P 3750 4900
 F 0 "SW24" H 3800 5000 50  0000 L CNN
 F 1 "Key_CRSRRIGHT" H 3750 4840 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 3750 5100 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3750 5100 50  0001 C CNN
 F 3 "" H 3750 5100 50  0001 C CNN
 	1    3750 4900
 	1    0    0    -1  
@@ -272,7 +272,7 @@ U 1 1 5CF3A272
 P 4700 1250
 F 0 "SW25" H 4750 1350 50  0000 L CNN
 F 1 "Key_STOP" H 4700 1190 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 4700 1450 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4700 1450 50  0001 C CNN
 F 3 "" H 4700 1450 50  0001 C CNN
 	1    4700 1250
 	1    0    0    -1  
@@ -283,7 +283,7 @@ U 1 1 5CF3A278
 P 4700 2250
 F 0 "SW27" H 4750 2350 50  0000 L CNN
 F 1 "Key_X" H 4700 2190 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 4700 2450 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4700 2450 50  0001 C CNN
 F 3 "" H 4700 2450 50  0001 C CNN
 	1    4700 2250
 	1    0    0    -1  
@@ -294,7 +294,7 @@ U 1 1 5CF3A27E
 P 4700 1750
 F 0 "SW26" H 4750 1850 50  0000 L CNN
 F 1 "Key_LSHFT" H 4700 1690 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.50u_PCB" H 4700 1950 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4700 1950 50  0001 C CNN
 F 3 "" H 4700 1950 50  0001 C CNN
 	1    4700 1750
 	1    0    0    -1  
@@ -305,7 +305,7 @@ U 1 1 5CF3A284
 P 4700 2800
 F 0 "SW28" H 4750 2900 50  0000 L CNN
 F 1 "Key_V" H 4700 2740 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 4700 3000 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4700 3000 50  0001 C CNN
 F 3 "" H 4700 3000 50  0001 C CNN
 	1    4700 2800
 	1    0    0    -1  
@@ -316,7 +316,7 @@ U 1 1 5CF3A28A
 P 4700 3900
 F 0 "SW30" H 4750 4000 50  0000 L CNN
 F 1 "Key_comma" H 4700 3840 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 4700 4100 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4700 4100 50  0001 C CNN
 F 3 "" H 4700 4100 50  0001 C CNN
 	1    4700 3900
 	1    0    0    -1  
@@ -327,7 +327,7 @@ U 1 1 5CF3A290
 P 4700 3350
 F 0 "SW29" H 4750 3450 50  0000 L CNN
 F 1 "Key_N" H 4700 3290 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 4700 3550 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4700 3550 50  0001 C CNN
 F 3 "" H 4700 3550 50  0001 C CNN
 	1    4700 3350
 	1    0    0    -1  
@@ -338,7 +338,7 @@ U 1 1 5CF3A296
 P 4700 4400
 F 0 "SW31" H 4750 4500 50  0000 L CNN
 F 1 "Key_slash" H 4700 4340 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 4700 4600 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4700 4600 50  0001 C CNN
 F 3 "" H 4700 4600 50  0001 C CNN
 	1    4700 4400
 	1    0    0    -1  
@@ -349,7 +349,7 @@ U 1 1 5CF3A29C
 P 4700 4900
 F 0 "SW32" H 4750 5000 50  0000 L CNN
 F 1 "Key_CRSRDOWN" H 4700 4840 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 4700 5100 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4700 5100 50  0001 C CNN
 F 3 "" H 4700 5100 50  0001 C CNN
 	1    4700 4900
 	1    0    0    -1  
@@ -360,7 +360,7 @@ U 1 1 5CF3AC62
 P 5600 1250
 F 0 "SW33" H 5650 1350 50  0000 L CNN
 F 1 "Key_SPACE" H 5600 1190 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_6.25u_PCB" H 5600 1450 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5600 1450 50  0001 C CNN
 F 3 "" H 5600 1450 50  0001 C CNN
 	1    5600 1250
 	1    0    0    -1  
@@ -371,7 +371,7 @@ U 1 1 5CF3AC68
 P 5600 2250
 F 0 "SW35" H 5650 2350 50  0000 L CNN
 F 1 "Key_C" H 5600 2190 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 5600 2450 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5600 2450 50  0001 C CNN
 F 3 "" H 5600 2450 50  0001 C CNN
 	1    5600 2250
 	1    0    0    -1  
@@ -382,7 +382,7 @@ U 1 1 5CF3AC6E
 P 5600 1750
 F 0 "SW34" H 5650 1850 50  0000 L CNN
 F 1 "Key_Z" H 5600 1690 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 5600 1950 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5600 1950 50  0001 C CNN
 F 3 "" H 5600 1950 50  0001 C CNN
 	1    5600 1750
 	1    0    0    -1  
@@ -393,7 +393,7 @@ U 1 1 5CF3AC74
 P 5600 2800
 F 0 "SW36" H 5650 2900 50  0000 L CNN
 F 1 "Key_B" H 5600 2740 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 5600 3000 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5600 3000 50  0001 C CNN
 F 3 "" H 5600 3000 50  0001 C CNN
 	1    5600 2800
 	1    0    0    -1  
@@ -404,7 +404,7 @@ U 1 1 5CF3AC7A
 P 5600 3900
 F 0 "SW38" H 5650 4000 50  0000 L CNN
 F 1 "Key_period" H 5600 3840 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 5600 4100 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5600 4100 50  0001 C CNN
 F 3 "" H 5600 4100 50  0001 C CNN
 	1    5600 3900
 	1    0    0    -1  
@@ -415,7 +415,7 @@ U 1 1 5CF3AC80
 P 5600 3350
 F 0 "SW37" H 5650 3450 50  0000 L CNN
 F 1 "Key_M" H 5600 3290 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 5600 3550 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5600 3550 50  0001 C CNN
 F 3 "" H 5600 3550 50  0001 C CNN
 	1    5600 3350
 	1    0    0    -1  
@@ -426,7 +426,7 @@ U 1 1 5CF3AC86
 P 5600 4400
 F 0 "SW39" H 5650 4500 50  0000 L CNN
 F 1 "Key_RSHFT" H 5600 4340 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.50u_PCB" H 5600 4600 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5600 4600 50  0001 C CNN
 F 3 "" H 5600 4600 50  0001 C CNN
 	1    5600 4400
 	1    0    0    -1  
@@ -437,7 +437,7 @@ U 1 1 5CF3AC8C
 P 5600 4900
 F 0 "SW40" H 5650 5000 50  0000 L CNN
 F 1 "Key_F1" H 5600 4840 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.50u_PCB" H 5600 5100 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5600 5100 50  0001 C CNN
 F 3 "" H 5600 5100 50  0001 C CNN
 	1    5600 4900
 	1    0    0    -1  
@@ -448,7 +448,7 @@ U 1 1 5CF3AC92
 P 6550 1250
 F 0 "SW41" H 6600 1350 50  0000 L CNN
 F 1 "Key_CBM" H 6550 1190 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 6550 1450 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6550 1450 50  0001 C CNN
 F 3 "" H 6550 1450 50  0001 C CNN
 	1    6550 1250
 	1    0    0    -1  
@@ -459,7 +459,7 @@ U 1 1 5CF3AC98
 P 6550 2250
 F 0 "SW43" H 6600 2350 50  0000 L CNN
 F 1 "Key_F" H 6550 2190 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 6550 2450 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6550 2450 50  0001 C CNN
 F 3 "" H 6550 2450 50  0001 C CNN
 	1    6550 2250
 	1    0    0    -1  
@@ -470,7 +470,7 @@ U 1 1 5CF3AC9E
 P 6550 1750
 F 0 "SW42" H 6600 1850 50  0000 L CNN
 F 1 "Key_S" H 6550 1690 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 6550 1950 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6550 1950 50  0001 C CNN
 F 3 "" H 6550 1950 50  0001 C CNN
 	1    6550 1750
 	1    0    0    -1  
@@ -481,7 +481,7 @@ U 1 1 5CF3ACA4
 P 6550 2800
 F 0 "SW44" H 6600 2900 50  0000 L CNN
 F 1 "Key_H" H 6550 2740 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 6550 3000 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6550 3000 50  0001 C CNN
 F 3 "" H 6550 3000 50  0001 C CNN
 	1    6550 2800
 	1    0    0    -1  
@@ -492,7 +492,7 @@ U 1 1 5CF3ACAA
 P 6550 3900
 F 0 "SW46" H 6600 4000 50  0000 L CNN
 F 1 "Key_colon" H 6550 3840 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 6550 4100 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6550 4100 50  0001 C CNN
 F 3 "" H 6550 4100 50  0001 C CNN
 	1    6550 3900
 	1    0    0    -1  
@@ -503,7 +503,7 @@ U 1 1 5CF3ACB0
 P 6550 3350
 F 0 "SW45" H 6600 3450 50  0000 L CNN
 F 1 "Key_K" H 6550 3290 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 6550 3550 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6550 3550 50  0001 C CNN
 F 3 "" H 6550 3550 50  0001 C CNN
 	1    6550 3350
 	1    0    0    -1  
@@ -514,7 +514,7 @@ U 1 1 5CF3ACB6
 P 6550 4400
 F 0 "SW47" H 6600 4500 50  0000 L CNN
 F 1 "Key_equals" H 6550 4340 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 6550 4600 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6550 4600 50  0001 C CNN
 F 3 "" H 6550 4600 50  0001 C CNN
 	1    6550 4400
 	1    0    0    -1  
@@ -525,7 +525,7 @@ U 1 1 5CF3ACBC
 P 6550 4900
 F 0 "SW48" H 6600 5000 50  0000 L CNN
 F 1 "Key_F3" H 6550 4840 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.50u_PCB" H 6550 5100 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6550 5100 50  0001 C CNN
 F 3 "" H 6550 5100 50  0001 C CNN
 	1    6550 4900
 	1    0    0    -1  
@@ -536,7 +536,7 @@ U 1 1 5CF3ACC2
 P 7500 1250
 F 0 "SW49" H 7550 1350 50  0000 L CNN
 F 1 "Key_Q" H 7500 1190 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 7500 1450 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7500 1450 50  0001 C CNN
 F 3 "" H 7500 1450 50  0001 C CNN
 	1    7500 1250
 	1    0    0    -1  
@@ -547,7 +547,7 @@ U 1 1 5CF3ACC8
 P 7500 2250
 F 0 "SW51" H 7550 2350 50  0000 L CNN
 F 1 "Key_T" H 7500 2190 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 7500 2450 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7500 2450 50  0001 C CNN
 F 3 "" H 7500 2450 50  0001 C CNN
 	1    7500 2250
 	1    0    0    -1  
@@ -558,7 +558,7 @@ U 1 1 5CF3ACCE
 P 7500 1750
 F 0 "SW50" H 7550 1850 50  0000 L CNN
 F 1 "Key_E" H 7500 1690 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 7500 1950 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7500 1950 50  0001 C CNN
 F 3 "" H 7500 1950 50  0001 C CNN
 	1    7500 1750
 	1    0    0    -1  
@@ -569,7 +569,7 @@ U 1 1 5CF3ACD4
 P 7500 2800
 F 0 "SW52" H 7550 2900 50  0000 L CNN
 F 1 "Key_U" H 7500 2740 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 7500 3000 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7500 3000 50  0001 C CNN
 F 3 "" H 7500 3000 50  0001 C CNN
 	1    7500 2800
 	1    0    0    -1  
@@ -580,7 +580,7 @@ U 1 1 5CF3ACDA
 P 7500 3900
 F 0 "SW54" H 7550 4000 50  0000 L CNN
 F 1 "Key_at" H 7500 3840 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 7500 4100 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7500 4100 50  0001 C CNN
 F 3 "" H 7500 4100 50  0001 C CNN
 	1    7500 3900
 	1    0    0    -1  
@@ -591,7 +591,7 @@ U 1 1 5CF3ACE0
 P 7500 3350
 F 0 "SW53" H 7550 3450 50  0000 L CNN
 F 1 "Key_O" H 7500 3290 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 7500 3550 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7500 3550 50  0001 C CNN
 F 3 "" H 7500 3550 50  0001 C CNN
 	1    7500 3350
 	1    0    0    -1  
@@ -602,7 +602,7 @@ U 1 1 5CF3ACE6
 P 7500 4400
 F 0 "SW55" H 7550 4500 50  0000 L CNN
 F 1 "Key_ARROWUP" H 7500 4340 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 7500 4600 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7500 4600 50  0001 C CNN
 F 3 "" H 7500 4600 50  0001 C CNN
 	1    7500 4400
 	1    0    0    -1  
@@ -613,7 +613,7 @@ U 1 1 5CF3ACEC
 P 7500 4900
 F 0 "SW56" H 7550 5000 50  0000 L CNN
 F 1 "Key_F5" H 7500 4840 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.50u_PCB" H 7500 5100 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7500 5100 50  0001 C CNN
 F 3 "" H 7500 5100 50  0001 C CNN
 	1    7500 4900
 	1    0    0    -1  
@@ -624,7 +624,7 @@ U 1 1 5CF3ACF2
 P 8450 1250
 F 0 "SW57" H 8500 1350 50  0000 L CNN
 F 1 "Key_2" H 8450 1190 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 8450 1450 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 8450 1450 50  0001 C CNN
 F 3 "" H 8450 1450 50  0001 C CNN
 	1    8450 1250
 	1    0    0    -1  
@@ -635,7 +635,7 @@ U 1 1 5CF3ACF8
 P 8450 2250
 F 0 "SW59" H 8500 2350 50  0000 L CNN
 F 1 "Key_6" H 8450 2190 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 8450 2450 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 8450 2450 50  0001 C CNN
 F 3 "" H 8450 2450 50  0001 C CNN
 	1    8450 2250
 	1    0    0    -1  
@@ -646,7 +646,7 @@ U 1 1 5CF3ACFE
 P 8450 1750
 F 0 "SW58" H 8500 1850 50  0000 L CNN
 F 1 "Key_4" H 8450 1690 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 8450 1950 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 8450 1950 50  0001 C CNN
 F 3 "" H 8450 1950 50  0001 C CNN
 	1    8450 1750
 	1    0    0    -1  
@@ -657,7 +657,7 @@ U 1 1 5CF3AD04
 P 8450 2800
 F 0 "SW60" H 8500 2900 50  0000 L CNN
 F 1 "Key_8" H 8450 2740 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 8450 3000 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 8450 3000 50  0001 C CNN
 F 3 "" H 8450 3000 50  0001 C CNN
 	1    8450 2800
 	1    0    0    -1  
@@ -668,7 +668,7 @@ U 1 1 5CF3AD0A
 P 8450 3900
 F 0 "SW62" H 8500 4000 50  0000 L CNN
 F 1 "Key_minus" H 8450 3840 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 8450 4100 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 8450 4100 50  0001 C CNN
 F 3 "" H 8450 4100 50  0001 C CNN
 	1    8450 3900
 	1    0    0    -1  
@@ -679,7 +679,7 @@ U 1 1 5CF3AD10
 P 8450 3350
 F 0 "SW61" H 8500 3450 50  0000 L CNN
 F 1 "Key_0" H 8450 3290 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 8450 3550 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 8450 3550 50  0001 C CNN
 F 3 "" H 8450 3550 50  0001 C CNN
 	1    8450 3350
 	1    0    0    -1  
@@ -690,7 +690,7 @@ U 1 1 5CF3AD16
 P 8450 4400
 F 0 "SW63" H 8500 4500 50  0000 L CNN
 F 1 "Key_HOME" H 8450 4340 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 8450 4600 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 8450 4600 50  0001 C CNN
 F 3 "" H 8450 4600 50  0001 C CNN
 	1    8450 4400
 	1    0    0    -1  
@@ -701,7 +701,7 @@ U 1 1 5CF3AD1C
 P 8450 4900
 F 0 "SW64" H 8500 5000 50  0000 L CNN
 F 1 "Key_F7" H 8450 4840 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.50u_PCB" H 8450 5100 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 8450 5100 50  0001 C CNN
 F 3 "" H 8450 5100 50  0001 C CNN
 	1    8450 4900
 	1    0    0    -1  
@@ -712,7 +712,7 @@ U 1 1 5CF3B0A4
 P 9700 2150
 F 0 "SW65" H 9750 2250 50  0000 L CNN
 F 1 "Key_SHFTLCK" H 9700 2090 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 9700 2350 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 9700 2350 50  0001 C CNN
 F 3 "" H 9700 2350 50  0001 C CNN
 	1    9700 2150
 	1    0    0    -1  
@@ -723,7 +723,7 @@ U 1 1 5CF39623
 P 1850 1250
 F 0 "SW1" H 1900 1350 50  0000 L CNN
 F 1 "Key_1" H 1850 1190 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 1850 1450 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 1850 1450 50  0001 C CNN
 F 3 "" H 1850 1450 50  0001 C CNN
 	1    1850 1250
 	1    0    0    -1  
@@ -1450,7 +1450,7 @@ U 1 1 5CF50AAB
 P 9450 4000
 F 0 "SW66" H 9500 4100 50  0000 L CNN
 F 1 "Key_RESTORE" H 9450 3940 50  0000 C CNN
-F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX1A_1.50u_PCB" H 9450 4200 50  0001 C CNN
+F 2 "Buttons_Switches_Keyboard:SW_Cherry_MX_1.00u_PCB" H 9450 4200 50  0001 C CNN
 F 3 "" H 9450 4200 50  0001 C CNN
 	1    9450 4000
 	1    0    0    -1  
